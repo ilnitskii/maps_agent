@@ -84,7 +84,7 @@ Analysis → Search → Evaluation
 ## Agent Architecture
 
 ```mermaid
-flowchart TD
+flowchart LR
 
 A[Input Query + Business Metadata]
 
